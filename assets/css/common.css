@@ -1,0 +1,8 @@
+.content{
+  margin:30px;
+  text-align: center;
+}
+.nuxt-link-exact-active{
+  font-weight: bold;
+  font-size: 18px;
+}

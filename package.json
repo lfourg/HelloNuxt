@@ -1,0 +1,22 @@
+{
+  "name": "HelloNuxtJS",
+  "version": "1.0.0",
+  "description": "My grand Nuxt.js project",
+  "author": "lfourg",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "axios": "^0.19.2",
+    "element-ui": "^2.13.1",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2"
+  }
+}
